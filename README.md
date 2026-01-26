@@ -33,7 +33,7 @@ A UX/UI project exploring design solutions for communication challenges when lan
 
 ---
 
-### Perfect Pasta Pairing Dashboard
+### The Perfect Pasta Pairing Dashboard
 **Type:** Power BI  
 A Power BI dashboard analyzing pasta recipes, sauces, ingredients, and pairing suggestions.
 
