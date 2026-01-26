@@ -45,7 +45,7 @@ A Power BI dashboard analyzing pasta recipes, sauces, ingredients, and pairing s
 
 **Dashboard Preview:**
 
-[![Perfect Pasta Dashboard](images/ThePerfectPastaPairing.png)](PowerBI/PerfectPastaPairing/PerfectPastaPairing.pbix)
+[![Perfect Pasta Dashboard](images/ThePerfectPastaPairing.jpeg)](PowerBI/PerfectPastaPairing/PerfectPastaPairing.pbix)
 
 *Click the image to open the Power BI file.*
 
