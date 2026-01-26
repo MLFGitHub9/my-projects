@@ -14,6 +14,6 @@ A Power BI dashboard analyzing pasta recipes, sauces, ingredients, and pairing s
 - Visual KPIs with color-coded dashboards
 - Matrix visualization with interactive icons
 
-[![Dashboard Screenshot](https://github.com/MLFGitHub9/my-powerbi-projects/raw/main/Pasta_Sauce_Analysis_v1_Screenshot.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiMjA3ZTJiY2QtNDk3ZC00YzBhLTkxODgtODQzM2UzNmY2MDBmIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
+[![Dashboard Screenshot](https://github.com/MLFGitHub9/my-powerbi-projects/raw/main/ThePerfectPastaPairing.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiZWVjNTk0ZDMtOTIwZC00ODEzLTlkMjktNzM4ZDBmZWMzZWVjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
 
 Click the image to open the live interactive dashboard (opens in a new tab).
