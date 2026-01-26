@@ -1,7 +1,7 @@
 # my-projects
 Interactive Power BI dashboards published to web
 
-[![Power BI dashboard preview](https://github.com/MLFGitHub9/my-powerbi-projects/raw/main/‎‎MarissaLeeFriscia_SeniorDataVisualizationDesigner_PowerBI_Resume.jpeg‎‎)](https://app.powerbi.com/view?r=eyJrIjoiNDU1MmZhZDYtYzA1MS00OWViLThjYmMtNjQyY2FjYjkwZDJjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
+[![Power BI dashboard preview](https://github.com/MLFGitHub9/my-projects/raw/main/‎‎MarissaLeeFriscia_SeniorDataVisualizationDesigner_PowerBI_Resume.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiNDU1MmZhZDYtYzA1MS00OWViLThjYmMtNjQyY2FjYjkwZDJjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
 
 Click the image to open the live interactive dashboard (opens in a new tab).
 
@@ -28,6 +28,6 @@ A Power BI dashboard analyzing pasta recipes, sauces, ingredients, and pairing s
 - Visual KPIs with color-coded dashboards
 - Matrix visualization with interactive icons
 
-[![Dashboard Screenshot](https://github.com/MLFGitHub9/my-powerbi-projects/raw/main/ThePerfectPastaPairing.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiZWVjNTk0ZDMtOTIwZC00ODEzLTlkMjktNzM4ZDBmZWMzZWVjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
+[![Dashboard Screenshot](https://github.com/MLFGitHub9/my-projects/raw/main/ThePerfectPastaPairing.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiZWVjNTk0ZDMtOTIwZC00ODEzLTlkMjktNzM4ZDBmZWMzZWVjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
 
 Click the image to open the live interactive dashboard (opens in a new tab).
