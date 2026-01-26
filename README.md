@@ -4,7 +4,7 @@ Interactive dashboards, visual analytics, and UX projects showcasing data-driven
 
 ---
 
-### Senior Data Visualization Resume Dashboard
+### Senior Data Visualization Resume
 **Type:** Power BI  
 A Power BI dashboard highlighting resume analytics, KPI metrics, and data visualization skills.
 
@@ -33,7 +33,7 @@ A UX/UI project exploring design solutions for communication challenges when lan
 
 ---
 
-### The Perfect Pasta Pairing Dashboard
+### The Perfect Pasta Pairing
 **Type:** Power BI  
 A Power BI dashboard analyzing pasta recipes, sauces, ingredients, and pairing suggestions.
 
