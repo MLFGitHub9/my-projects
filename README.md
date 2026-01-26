@@ -1,4 +1,4 @@
-# my-powerbi-projects
+# my-projects
 Interactive Power BI dashboards published to web
 
 [![Power BI dashboard preview](https://github.com/MLFGitHub9/my-powerbi-projects/raw/main/MarissaLeeFriscia_SeniorDataVisualizationDesigner_PowerBI_Resume.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiNDU1MmZhZDYtYzA1MS00OWViLThjYmMtNjQyY2FjYjkwZDJjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
