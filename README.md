@@ -11,7 +11,7 @@ A Power BI dashboard highlighting resume analytics, KPI metrics, and data visual
 
 **Dashboard Preview:**
 
-[![Senior Data Viz Resume](images/senior-data-viz-resume.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiNDU1MmZhZDYtYzA1MS00OWViLThjYmMtNjQyY2FjYjkwZDJjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
+[![Senior Data Viz Resume](Senior-Data-Viz-Resume.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiNDU1MmZhZDYtYzA1MS00OWViLThjYmMtNjQyY2FjYjkwZDJjIiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
 
 *Click the image to open the live interactive dashboard (opens in a new tab).*
 
@@ -29,7 +29,7 @@ A UX/UI project exploring design solutions for communication challenges when lan
 
 **Project Preview:**
 
-[![When Language Is the Barrier](images/figma-language-thumbnail.png)](https://drive.google.com/file/d/1ywFGvW4nHZ-Yx6FPGcjul9KEycA-928H/view?usp=sharing)
+[![When Language Is the Barrier](Understanding-the-Intersection.png)](https://drive.google.com/file/d/1ywFGvW4nHZ-Yx6FPGcjul9KEycA-928H/view?usp=sharing)
 
 *Click the image to view the full PDF.*
 
@@ -46,7 +46,7 @@ A Power BI dashboard analyzing pasta recipes, sauces, ingredients, and pairing s
 
 **Dashboard Preview:**
 
-[![Perfect Pasta Dashboard](images/perfect-pasta-dashboard.png)](PowerBI/PerfectPastaPairing/PerfectPastaPairing.pbix)
+[![Perfect Pasta Dashboard](ThePerfectPastaPairing.jpeg)](PowerBI/PerfectPastaPairing/PerfectPastaPairing.pbix)
 
 *Click the image to open the Power BI file.*
 
