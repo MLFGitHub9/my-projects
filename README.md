@@ -27,7 +27,7 @@ A UX/UI project exploring design solutions for communication challenges when lan
 
 **Project Preview:**
 
-[![When Language Is the Barrier](images/Understanding-the-Intersection.png)](https://drive.google.com/file/d/1ywFGvW4nHZ-Yx6FPGcjul9KEycA-928H/view?usp=sharing)
+[![When Language Is the Barrier](images/1-Understanding-the-Intersection.png)](https://drive.google.com/file/d/1ywFGvW4nHZ-Yx6FPGcjul9KEycA-928H/view?usp=sharing)
 
 *Click the image to view the full PDF.*
 
