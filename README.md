@@ -10,7 +10,7 @@ A Power BI dashboard highlighting resume analytics, KPI metrics, and data visual
 
 **Dashboard Preview:**
 
-[![Senior Data Viz Resume](images/Senior-Data-Viz-Resume.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiY2U5YTJkNjQtYjZmNy00MDg5LTkwYTgtZDVhZTEyYWI3MGI1IiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
+[![Senior Data Viz Resume](images/Senior-Data-Viz-Resume.png)](https://app.powerbi.com/view?r=eyJrIjoiY2U5YTJkNjQtYjZmNy00MDg5LTkwYTgtZDVhZTEyYWI3MGI1IiwidCI6IjY0ZWU4MzEwLTRkY2ItNDY1YS04OTRiLWE2Y2I5YWNiOWJhNyIsImMiOjJ9)
 
 *Click the image to open the live interactive dashboard (opens in a new tab).*
 
